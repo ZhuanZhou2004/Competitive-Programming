@@ -8,7 +8,7 @@
 - 备注：受洛谷某场被爆破的比赛一题的启发，得到了灵感。
 #### 猜数 (guess)
 - 知识点：区间dp，单调队列；
-- 投搞：校内联考（NOI 模拟赛）；
+- 投搞：校内联考 (NOI 模拟赛)；
 - 来源：改编自 [PE 328 Lowest-cost Search](https://projecteuler.net/problem=328)；
 - 备注：当时在做 PE 328 时发掘了许多神奇的性质，感觉很有意思。
 #### 序列 (sequence)
