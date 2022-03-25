@@ -6,7 +6,7 @@
 - 投稿：[蓝桥杯模拟赛第 2 场](http://oj.hzjingma.com/contest/view?id=60)；
 - 来源：原创（不过好像撞了？）；
 - 备注：感情破裂期出的题，可能有些悲伤的色彩。
-#### 世界末日的时候，我想牵着你的手 (The truth that you leave)
+#### 世界末日的时候，我会牵着你的手 (The truth that you leave)
 - 知识点：莫队，set；
 - 投稿：[蓝桥杯模拟赛第 3 场](http://oj.hzjingma.com/contest/view?id=69)；
 - 来源：原创；
