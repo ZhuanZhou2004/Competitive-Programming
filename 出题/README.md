@@ -6,6 +6,11 @@
 - 投稿：[蓝桥杯模拟赛第 2 场](http://oj.hzjingma.com/contest/view?id=60)；
 - 来源：原创（不过好像撞了？）；
 - 备注：感情破裂期出的题，可能有些悲伤的色彩。
+#### 自知无奈的回绝，奇迹是否能够出现 (The truth that you leave)
+- 知识点：dp；
+- 投稿：[蓝桥杯模拟赛第 3 场](http://oj.hzjingma.com/contest/view?id=69)；
+- 来源：CF 原题；
+- 备注：感情破裂期出的题，可能有些悲伤的色彩。
 #### 世界末日的时候，我会牵着你的手 (The truth that you leave)
 - 知识点：莫队，set；
 - 投稿：[蓝桥杯模拟赛第 3 场](http://oj.hzjingma.com/contest/view?id=69)；
@@ -17,6 +22,17 @@
 - 投稿：[牛客练习赛 67](https://ac.nowcoder.com/acm/contest/6885)；
 - 来源：原创；
 - 备注：无。
+## 2020.08
+#### caidzh 的数学题 (caidzh)
+- 知识点：莫比乌斯反演，杜教筛，记忆化搜索；
+- 投稿：校内联考 (NOIP 模拟赛)；
+- 来源：加强自 [PE 432 Totient sum](https://projecteuler.net/problem=432)；
+- 备注：不会证明记搜的复杂度，实测是 O(n^2/3) 的。
+#### _szh_ 的数据结构题	(szh)
+- 知识点：线性筛，扫描线，树状数组，复杂度平衡；
+- 投稿：校内联考 (NOIP 模拟赛)；
+- 来源：原创（不过好像撞了 CF）；
+- 备注：某天和 _szh_ 讨论时产生的 idea，并在讨论后得到了较高效的实现方式，本题为了卡掉 log/loglog，有些卡常。
 ## 2021.02
 #### 动态最小生成树 (mst)
 - 知识点：线段树，kruskal；
