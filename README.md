@@ -1,2 +1,3 @@
 # Alan233
-Competitive Programming
+
+将 OI 生涯中记录过的点点滴滴保存在这里。
