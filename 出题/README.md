@@ -11,3 +11,9 @@
 - 投稿：校内联考 (NOI 模拟赛)；
 - 来源：改编自 [PE 427 n-sequences](https://projecteuler.net/problem=427)；
 - 备注：当时刚学二项式反演，并且恰好做到了这题。之后同学跟我探讨时想出了组合意义做法，因此出了此题。
+## 2021.03
+#### 卡牌 (card)
+- 知识点：minmax 容斥，多项式；
+- 投稿：校内联考 (NOI 模拟赛)；
+- 来源：加强自 [XXI Open Cup Grand Prix of Tokyo. G. Games](https://codeforces.com/gym/102978/problem/G)，加了 2 个 0；
+- 备注：受到原题的启发，我在某天晚上想出了优于标算复杂度的做法，并将其加强。
