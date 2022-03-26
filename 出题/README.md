@@ -1,7 +1,7 @@
-这里公开了一些我出过的有价值的题。
+这里列出了所有我出过的题。有价值且原创的题我用 ♣ 表示，并上传至此处。
 
 ## 2020.02
-#### 梅深不见冬 (winter)
+#### ♣ 梅深不见冬 (winter)
 - 知识点：莫比乌斯反演，杜教筛；
 - 投稿：[蓝桥杯模拟赛第 2 场](http://oj.hzjingma.com/contest/view?id=60)；
 - 来源：原创（不过好像撞了？）；
@@ -11,7 +11,7 @@
 - 投稿：[蓝桥杯模拟赛第 3 场](http://oj.hzjingma.com/contest/view?id=69)；
 - 来源：CF 原题；
 - 备注：感情破裂期出的题，可能有些悲伤的色彩。
-#### 世界末日的时候，我会牵着你的手 (The truth that you leave)
+#### ♣ 世界末日的时候，我会牵着你的手 (The truth that you leave)
 - 知识点：莫队，set；
 - 投稿：[蓝桥杯模拟赛第 3 场](http://oj.hzjingma.com/contest/view?id=69)；
 - 来源：原创；
