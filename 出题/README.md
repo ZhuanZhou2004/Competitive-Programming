@@ -5,17 +5,17 @@
 - 知识点：莫比乌斯反演，杜教筛；
 - 投稿：[蓝桥杯模拟赛第 2 场](http://oj.hzjingma.com/contest/view?id=60)；
 - 来源：原创（不过好像撞了？）；
-- 备注：感情破裂期出的题，可能有些悲伤的色彩。
+- 备注：可能有些悲伤的色彩。
 #### 自知无奈的回绝，奇迹是否能够出现 (The truth that you leave)
 - 知识点：dp；
 - 投稿：[蓝桥杯模拟赛第 3 场](http://oj.hzjingma.com/contest/view?id=69)；
 - 来源：CF 原题；
-- 备注：感情破裂期出的题，可能有些悲伤的色彩。
+- 备注：可能有些悲伤的色彩。
 #### ♣ 世界末日的时候，我会牵着你的手 (The truth that you leave)
 - 知识点：莫队，set；
 - 投稿：[蓝桥杯模拟赛第 3 场](http://oj.hzjingma.com/contest/view?id=69)；
 - 来源：原创；
-- 备注：感情破裂期出的题，可能有些悲伤的色彩。
+- 备注：可能有些悲伤的色彩。
 ## 2020.04
 #### Alan 爱数列 (sequence)
 - 知识点：dp；
