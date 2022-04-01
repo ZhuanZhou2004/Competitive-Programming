@@ -13,7 +13,7 @@
 - 投稿：[洛谷团队邀请赛 初一测试赛 T2](https://www.luogu.com.cn/contest/10578)；
 - 来源：原创；
 - 备注：数据好像有点弱？暴力就过了。
-#### zz 游班加罗尔 (bangalore)
+#### ♣ zz 游班加罗尔 (bangalore)
 - 知识点：大模拟；
 - 投稿：[洛谷团队邀请赛 初一测试赛 T3](https://www.luogu.com.cn/contest/10578)；
 - 来源：原创；
@@ -28,7 +28,7 @@
 - 投稿：无；
 - 来源：原创；
 - 备注：无。
-#### 天空之城 (Castle in the Sky)
+#### ♣ 天空之城 (Castle in the Sky)
 - 知识点：数学；
 - 投稿：无；
 - 来源：原创；
@@ -54,6 +54,27 @@
 - 投稿：[link](https://www.luogu.com.cn/problem/T23007)；
 - 来源：原创；
 - 备注：上英语课的时候想出的馊点子（
+## 2018.12
+#### ♣ 代数式的最值 (maxmin)
+- 知识点：数学（二次函数）；
+- 投稿：校内模拟赛，[题面](https://www.luogu.com.cn/problem/T61816)；
+- 来源：原创；
+- 备注：上数学课的时候想出的馊点子（
+#### ♣ 合并果子 (merge)
+- 知识点：贪心，队列；
+- 投稿：校内模拟赛，[题面](https://www.luogu.com.cn/problem/T63713)；
+- 来源：原创；
+- 备注：idea 来自于合并果子以及蚯蚓。
+#### 回家 (back)
+- 知识点：搜索，剪枝；
+- 投稿：校内模拟赛，[题面](https://www.luogu.com.cn/problem/T63722)；
+- 来源：好像是 codechef 还是 poj 拉的原题；
+- 备注：无。
+#### 心态 (attitute)
+- 知识点：dp，模拟；
+- 投稿：校内模拟赛，[题面](https://www.luogu.com.cn/problem/T63726)；
+- 来源：一码学程的原创题；
+- 备注：无。
 ## 2020.02
 #### ♣ 梅深不见冬 (winter)
 - 知识点：莫比乌斯反演，杜教筛；
