@@ -122,6 +122,9 @@
 - 投稿：校内联考 (NOI 模拟赛)；
 - 来源：加强自 [XXI Open Cup Grand Prix of Tokyo. G. Games](https://codeforces.com/gym/102978/problem/G)，加了 2 个 0；
 - 备注：受到原题的启发，我在某天晚上想出了优于标算复杂度的做法，并将其加强。
+## 2021.06
+#### Matrix Counting (count)
+- 比赛暂未开始，不公开；
 ## 2021.08
 #### ♣ xay loves snacks (snacks) / 补幺梨 (pear)
 - 知识点：01 背包，期望，同余最短路；
